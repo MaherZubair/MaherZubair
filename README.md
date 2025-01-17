@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mubashar Sharif</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maherzubair" alt="maherzubair" /></a> </p>
 
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **React, Nextjs, React Native**
-
-- 👨‍💻 All of my projects are available at [https://maher-zubair.xyz](https://maher-zubair.xyz)
 
 - 💬 Ask me about **Nothing**
 
@@ -17,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/maher.xubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maher.xubair" height="30" width="40" /></a>
+<a href="https://fb.com/mubshar.sharif.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubshar.sharif.73" height="30" width="40" /></a>
+<a href="https://instagram.com/mubasharshareef95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubasharshareef95" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/innoxenttech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="innoxenttech" height="30" width="40" /></a>
 </p>
 
